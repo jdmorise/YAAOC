@@ -1,0 +1,12 @@
+/prj/
+*.c~
+main.eep
+main.hex
+/.dep/
+*.o
+*.elf
+*.lss
+*.lst
+*.map
+*.sym
+*.o.d
